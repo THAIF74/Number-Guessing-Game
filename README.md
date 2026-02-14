@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-guessing and shows count attempts
+A simple JavaScript number guessing game. built using HTML+ JS
